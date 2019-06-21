@@ -1,0 +1,13 @@
+{
+    "name": "node-api",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "latest",
+        "cors": "^2.8.4",
+        "express": "latest",
+        "express-session": "^1.15.6",
+        "http-errors": "^1.7.1",
+        "mysql": "latest",
+        "serve-favicon": "^2.5.0"
+    }
+}
